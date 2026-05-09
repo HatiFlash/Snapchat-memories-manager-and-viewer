@@ -12,3 +12,9 @@ What it does:
 - One-click launcher — a .bat file that installs all Python dependencies and opens a menu to launch either the sorter or the web viewer
 
 Stack: Python, Tkinter, ffmpeg, Pillow, Flask
+
+<img width="778" height="876" alt="image" src="https://github.com/user-attachments/assets/3f167e4a-a19a-437b-8588-e4fd015d948f" />
+
+<img width="1282" height="1210" alt="image" src="https://github.com/user-attachments/assets/a25e8e9b-1e20-46bd-9007-dcf03faeefdb" />
+
+<img width="1855" height="966" alt="image" src="https://github.com/user-attachments/assets/ee1260bc-3895-450d-b327-7a025cd67236" />
